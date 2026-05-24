@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r0M6h5ZLigQ=",
+  "success": true,
+  "projectFilePath": "/home/jax/Desktop/RaylibCS-R3D-Jitter2-Physics-Starter-kit/test-raylib-r3d.csproj",
+  "expectedPackageFiles": [
+    "/home/jax/.nuget/packages/jitter2/2.8.7/jitter2.2.8.7.nupkg.sha512",
+    "/home/jax/.nuget/packages/r3d-cs/0.9.1/r3d-cs.0.9.1.nupkg.sha512",
+    "/home/jax/.nuget/packages/raylib-cs/7.0.2/raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
